@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\Regex Exercise\T04. Star Enigma\bin\Debug\netcoreapp3.1\T04. Star Enigma.exe
+C:\Users\Kristiyan\source\repos\Regex Exercise\T04. Star Enigma\bin\Debug\netcoreapp3.1\T04. Star Enigma.deps.json
+C:\Users\Kristiyan\source\repos\Regex Exercise\T04. Star Enigma\bin\Debug\netcoreapp3.1\T04. Star Enigma.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Regex Exercise\T04. Star Enigma\bin\Debug\netcoreapp3.1\T04. Star Enigma.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Regex Exercise\T04. Star Enigma\bin\Debug\netcoreapp3.1\T04. Star Enigma.dll
+C:\Users\Kristiyan\source\repos\Regex Exercise\T04. Star Enigma\bin\Debug\netcoreapp3.1\T04. Star Enigma.pdb
+C:\Users\Kristiyan\source\repos\Regex Exercise\T04. Star Enigma\obj\Debug\netcoreapp3.1\T04. Star Enigma.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\Regex Exercise\T04. Star Enigma\obj\Debug\netcoreapp3.1\T04. Star Enigma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Regex Exercise\T04. Star Enigma\obj\Debug\netcoreapp3.1\T04. Star Enigma.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Regex Exercise\T04. Star Enigma\obj\Debug\netcoreapp3.1\T04. Star Enigma.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Regex Exercise\T04. Star Enigma\obj\Debug\netcoreapp3.1\T04. Star Enigma.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Regex Exercise\T04. Star Enigma\obj\Debug\netcoreapp3.1\T04. Star Enigma.dll
+C:\Users\Kristiyan\source\repos\Regex Exercise\T04. Star Enigma\obj\Debug\netcoreapp3.1\T04. Star Enigma.pdb
+C:\Users\Kristiyan\source\repos\Regex Exercise\T04. Star Enigma\obj\Debug\netcoreapp3.1\T04. Star Enigma.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\Regex Exercise\T05. Nether Realms\bin\Debug\netcoreapp3.1\T05. Nether Realms.exe
+C:\Users\Kristiyan\source\repos\Regex Exercise\T05. Nether Realms\bin\Debug\netcoreapp3.1\T05. Nether Realms.deps.json
+C:\Users\Kristiyan\source\repos\Regex Exercise\T05. Nether Realms\bin\Debug\netcoreapp3.1\T05. Nether Realms.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Regex Exercise\T05. Nether Realms\bin\Debug\netcoreapp3.1\T05. Nether Realms.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Regex Exercise\T05. Nether Realms\bin\Debug\netcoreapp3.1\T05. Nether Realms.dll
+C:\Users\Kristiyan\source\repos\Regex Exercise\T05. Nether Realms\bin\Debug\netcoreapp3.1\T05. Nether Realms.pdb
+C:\Users\Kristiyan\source\repos\Regex Exercise\T05. Nether Realms\obj\Debug\netcoreapp3.1\T05. Nether Realms.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\Regex Exercise\T05. Nether Realms\obj\Debug\netcoreapp3.1\T05. Nether Realms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Regex Exercise\T05. Nether Realms\obj\Debug\netcoreapp3.1\T05. Nether Realms.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Regex Exercise\T05. Nether Realms\obj\Debug\netcoreapp3.1\T05. Nether Realms.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Regex Exercise\T05. Nether Realms\obj\Debug\netcoreapp3.1\T05. Nether Realms.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Regex Exercise\T05. Nether Realms\obj\Debug\netcoreapp3.1\T05. Nether Realms.dll
+C:\Users\Kristiyan\source\repos\Regex Exercise\T05. Nether Realms\obj\Debug\netcoreapp3.1\T05. Nether Realms.pdb
+C:\Users\Kristiyan\source\repos\Regex Exercise\T05. Nether Realms\obj\Debug\netcoreapp3.1\T05. Nether Realms.genruntimeconfig.cache

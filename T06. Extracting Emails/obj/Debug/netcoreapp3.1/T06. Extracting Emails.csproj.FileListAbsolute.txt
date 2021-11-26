@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\Regex Exercise\T06. Extracting Emails\bin\Debug\netcoreapp3.1\T06. Extracting Emails.exe
+C:\Users\Kristiyan\source\repos\Regex Exercise\T06. Extracting Emails\bin\Debug\netcoreapp3.1\T06. Extracting Emails.deps.json
+C:\Users\Kristiyan\source\repos\Regex Exercise\T06. Extracting Emails\bin\Debug\netcoreapp3.1\T06. Extracting Emails.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Regex Exercise\T06. Extracting Emails\bin\Debug\netcoreapp3.1\T06. Extracting Emails.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Regex Exercise\T06. Extracting Emails\bin\Debug\netcoreapp3.1\T06. Extracting Emails.dll
+C:\Users\Kristiyan\source\repos\Regex Exercise\T06. Extracting Emails\bin\Debug\netcoreapp3.1\T06. Extracting Emails.pdb
+C:\Users\Kristiyan\source\repos\Regex Exercise\T06. Extracting Emails\obj\Debug\netcoreapp3.1\T06. Extracting Emails.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\Regex Exercise\T06. Extracting Emails\obj\Debug\netcoreapp3.1\T06. Extracting Emails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Regex Exercise\T06. Extracting Emails\obj\Debug\netcoreapp3.1\T06. Extracting Emails.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Regex Exercise\T06. Extracting Emails\obj\Debug\netcoreapp3.1\T06. Extracting Emails.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Regex Exercise\T06. Extracting Emails\obj\Debug\netcoreapp3.1\T06. Extracting Emails.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Regex Exercise\T06. Extracting Emails\obj\Debug\netcoreapp3.1\T06. Extracting Emails.dll
+C:\Users\Kristiyan\source\repos\Regex Exercise\T06. Extracting Emails\obj\Debug\netcoreapp3.1\T06. Extracting Emails.pdb
+C:\Users\Kristiyan\source\repos\Regex Exercise\T06. Extracting Emails\obj\Debug\netcoreapp3.1\T06. Extracting Emails.genruntimeconfig.cache
